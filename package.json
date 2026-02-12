@@ -1,0 +1,24 @@
+{
+  "name": "jd-chatbot-demo",
+  "version": "1.0.0",
+  "description": "Simple web interface for JD chatbot candidate recommendation API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "chatbot",
+    "candidate",
+    "recommendation",
+    "api"
+  ],
+  "author": "Dhruv Thakur",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
